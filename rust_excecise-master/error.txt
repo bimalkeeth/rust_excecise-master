@@ -1,0 +1,13 @@
+Mastering Rust helps the reader master the powerful Rust programming language for creating stable and versatile applications and projects.
+
+Rust is a dependable and robust programming language that was created with today’s needs in mind, which is something that several other scripting languages lack. Rust was developed to provide high functions comparable to those of C and C++, and with a focus on code integrity, which is, arguably, lacking in languages such as C. Rust is a dynamically typed language that emphasizes performance and reliability, particularly in parallelism and storage organization. Rust allows you to store data on the tower or the shedload, and it recognizes the importance of performance optimization. It permits even more effective memory usage as well as faster memory management than most other programming languages in its league.
+
+Make no mistake about it – Rust is a programming language with a strong learning curve, and is considered complicated by even the most experienced of developers. The rewards for learning Rust are aplenty, but the learning process itself requires a good deal of determination and hard work.
+
+Nonetheless, Rust aims to provide a secure, concurrent, and practical systems language in ways that other programming languages do not, and this is primarily why Rust is often the preferred choice for building complex and highly stable apps. Rust boasts of advantages over many other programming languages in terms of expressiveness, speed, sound design, and memory storage. Though the language is new and constantly changing with time, there is an excellent opportunity in this field for future employment.
+
+That said, to learn the reliable language that is Rust, you need to have an equally reliable companion guide in your hands, and this is where Mastering Rust comes in.
+
+With Mastering Rust, learning Rust programming language becomes a charm, and will undoubtedly help readers advance their careers.
+
+The Mastering Computer Science series is edited by Sufyan bin Uzayr, a writer and educator with more than a decade of experience in the computing field.

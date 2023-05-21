@@ -1,0 +1,18 @@
+[package]
+name = "test1"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+serde = "1.0.159"
+serde_derive = "1.0.159"
+serde_json = "1.0.95"
+rayon = "1"
+num = "0.4.0"
+async-std = "1.12.0"
+doc-test = "0.1.0"
+ureq = "2.6.2"
+tokio = {version = "1.27.0" , features =["full"]}
